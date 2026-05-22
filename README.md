@@ -5,12 +5,6 @@
 
 *AI-powered Music & Movie Recommendations Engine built with Streamlit, TF-IDF, Cosine Similarity; iTunes/OMDb APIs — designed, production-grade.*
 
-![Python](https://img.shields.io/badge/Python-3.10+-1A1714?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Sklearn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![iTunes](https://img.shields.io/badge/iTunes%20API-FB5C74?style=for-the-badge&logo=apple&logoColor=white)
-![OMDb](https://img.shields.io/badge/OMDb%20API-F5C518?style=for-the-badge&logo=imdb&logoColor=black)
-
 </div>
 
 ---
@@ -27,12 +21,12 @@
 
 | Feature | Detail |
 |---|---|
-| 🎵 Music Recommendations | Lyric-based similarity via TF-IDF + Porter Stemmer |
-| 🎬 Movie Recommendations | Multi-feature similarity (genre, cast, keywords, director) |
-| 🖼 Live Artwork | iTunes API + OMDb API — high-res posters, no auth hassle |
-| ⚡ Fast | `@st.cache_data` caching — artwork fetched once, reused |
-| 🎨 Premium UI | Playfair Display + DM Sans, warm editorial light theme |
-| 🔁 Unified App | One interface, two engines, zero conflicts |
+| Music Recommendations | Lyric-based similarity via TF-IDF + Porter Stemmer |
+| Movie Recommendations | Multi-feature similarity (genre, cast, keywords, director) |
+| Live Artwork | iTunes API + OMDb API — high-res posters, no auth hassle |
+| Fast | `@st.cache_data` caching — artwork fetched once, reused |
+| Premium UI | Playfair Display + DM Sans, warm editorial light theme |
+| Unified App | One interface, two engines, zero conflicts |
 
 ---
 
